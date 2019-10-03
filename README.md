@@ -1,1 +1,1 @@
-This System Can use All the staff members of university and students
+This system can be user for university studenta and staff to work much easier to university activities..
